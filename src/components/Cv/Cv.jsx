@@ -5,7 +5,7 @@ const Cv = () => {
         <div className="font-bold mt-6 mb-6 text-center text-black">
             <h2>LEARN MORE ABOUT ME</h2>
             <h2 className="mt-4 text-xl">SEE MY RESUME:
-                <a className="link link-primary">  Im a simple link</a>
+                <a className="link link-primary"> https://drive.google.com/file/d/1BlMVtfzjLsEnviMF2RFpZm1dxZW2swzo/view?usp=sharing</a>
             </h2>
         </div>
     );
