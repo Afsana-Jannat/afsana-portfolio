@@ -39,7 +39,7 @@ const MyProject = () => {
                     <div>
                         <h2 className="font-semibold ml-10 text-xl
                     text-[#5a064b99] mt-4">Hostel Management System</h2>
-                        <p className="text-black">
+                        <p className="text-black font-bold">
                             <br /> Admin email: afsana@gmail.com
                             <br /> Admin password: 3232A@
                             <br /> Live Link: https://hostel-management-d56a9.web.app/
@@ -75,7 +75,7 @@ const MyProject = () => {
                         <h2 className="font-semibold ml-10 text-2xl
                     text-[#5a064b99] mt-2">Project By
                             Dream Job</h2>
-                        <p className="text-black">
+                        <p className="text-black font-bold">
                             <br /> Live Link: https://dream-jobs-by-jannat.netlify.app/
                         </p>
                     </div>
@@ -99,7 +99,7 @@ const MyProject = () => {
                     <div>
                         <h2 className="font-semibold ml-10 text-2xl
                     text-[#5a064b99] mt-2">Automotive</h2>
-                        <p className="text-black">
+                        <p className="text-black font-bold">
                             <br /> Live Link: https://lustrous-jalebi-f917fe.netlify.app/
                         </p>
                     </div>
