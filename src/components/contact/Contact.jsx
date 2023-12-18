@@ -29,10 +29,10 @@ const Contact = () => {
                     <form ref={form} onSubmit={sendEmail}>
                         <label>Name</label><br />
                         <input type="text" className="h-10 w-64 text-sm
-                        text-pink-500 p-2 rounded-xl" name="user_name" /><br />
+                        text-pink-500 p-2 rounded-xl" name="to_name" /><br />
                         <label>Email</label> <br />
                         <input type="email" className="h-10 w-64 text-sm
-                        text-pink-500 p-2 rounded-xl " name="user_email" /><br />
+                        text-pink-500 p-2 rounded-xl " name="email_id" /><br />
                         <label>Message</label> <br />
                         <textarea name="message" className="text-pink-500 p-2" /> <br />
                         <input className="btn mt-4 bg-pink-600 text-xl font-bold text-white" type="submit" value="Send" />
